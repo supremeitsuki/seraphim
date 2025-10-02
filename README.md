@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a developer who loves building efficient, scalable, an
 ### 📫 Let's Connect
 - Portfolio: [yourportfolio.com](soon)
 - Discord: supremeitsuki
-- Twitter/X: [@yourhandle](soon
+- Twitter/X: [@yourhandle](soon)
 - Email: rodllyentereso311@gmail.com
 
 ---
