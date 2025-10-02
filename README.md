@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Seraphim
 
 🎯 Passionate Developer | 💻 Software Engineer | 🚀 Tech Enthusiast
 
@@ -7,8 +7,8 @@ Welcome to my GitHub! I'm a developer who loves building efficient, scalable, an
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, Python, Java, C++
-- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind
+- **Languages:** JavaScript, TypeScript, Python, Java, C++, PAWN
+- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind, PHP
 - **Backend:** Node.js, Express, Django, Spring Boot
 - **Databases:** PostgreSQL, MongoDB, MySQL
 - **Tools:** Git, Docker, VSCode, Postman, Figma
