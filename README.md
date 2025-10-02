@@ -23,10 +23,10 @@ Welcome to my GitHub! I'm a developer who loves building efficient, scalable, an
 ---
 
 ### 📫 Let's Connect
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
-- Email: youremail@example.com
+- Portfolio: [yourportfolio.com](soon)
+- Discord: supremeitsuki
+- Twitter/X: [@yourhandle](soon
+- Email: rodllyentereso311@gmail.com
 
 ---
 
